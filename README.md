@@ -6,9 +6,8 @@
 
 
 ## Instructions
-Look at this GIST for steps
-
-https://gist.github.com/manuelgeek/3d30526adba831c1bc3d706dd87e30ad
+Look at this [GIST](https://gist.github.com/manuelgeek/3d30526adba831c1bc3d706dd87e30ad) for steps<br>
+Post on [GeeksTalkThursday](https://geekstalkthursday.co.ke/blog/creating-email-subscription-with-laravel-and-mailchimp-071220182233)
 
 ## License
 
